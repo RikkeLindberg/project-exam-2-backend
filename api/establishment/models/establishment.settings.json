@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "establishments",
   "info": {
-    "name": "establishment"
+    "name": "establishment",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -32,7 +33,7 @@
       "type": "integer"
     },
     "image": {
-      "collection": "file",
+      "model": "file",
       "via": "related",
       "allowedTypes": [
         "images",
