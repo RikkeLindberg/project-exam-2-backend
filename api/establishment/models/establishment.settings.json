@@ -29,7 +29,7 @@
     "price": {
       "type": "decimal"
     },
-    "max_guests": {
+    "maxguests": {
       "type": "integer"
     },
     "image": {
