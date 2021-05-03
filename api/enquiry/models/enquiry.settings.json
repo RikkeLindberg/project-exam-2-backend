@@ -12,10 +12,10 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "checkin": {
+    "check_in": {
       "type": "date"
     },
-    "checkout": {
+    "check_out": {
       "type": "date"
     },
     "name": {
@@ -24,7 +24,7 @@
     "email": {
       "type": "email"
     },
-    "maxguests": {
+    "max_guests": {
       "type": "integer"
     },
     "message": {
